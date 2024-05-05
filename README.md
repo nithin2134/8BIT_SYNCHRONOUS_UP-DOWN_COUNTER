@@ -1,5 +1,8 @@
 # 8BIT_SYNCHRONOUS_UP-DOWN_COUNTER
 
+![image](https://github.com/nithin2134/8BIT_SYNCHRONOUS_UP-DOWN_COUNTER/assets/160302970/174f1aa9-e218-4c8d-9e75-5eed4c5f8c59)
+
+
 # Here is a diagram showing the circuit in the "up" counting mode
 ![image](https://github.com/RESMIRNAIR/8BIT_SYNCHRONOUS_UP-DOWN_COUNTER/assets/154305926/8a6dd34b-5226-4d93-9bff-d87ab85aeabc)
 
@@ -7,7 +10,7 @@
 ![image](https://github.com/RESMIRNAIR/8BIT_SYNCHRONOUS_UP-DOWN_COUNTER/assets/154305926/9a30ebd6-6692-48d0-b64b-41b896d6de4a)
 
 # VHDL CODE:
-
+~~
 library IEEE;
 
 use IEEE.STD_LOGIC_1164.ALL;
@@ -61,7 +64,7 @@ count <= tmp;
 end process;
 
 end Behavioral;
-
+~~
 # OUTPUT:
 
 ![image](https://github.com/nithin2134/8BIT_SYNCHRONOUS_UP-DOWN_COUNTER/assets/160302970/269a1229-2083-45a7-9e6a-f8a861de5fa3)
