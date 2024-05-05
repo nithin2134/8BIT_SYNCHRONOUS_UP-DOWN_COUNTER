@@ -63,5 +63,6 @@ end process;
 end Behavioral;
 
 # OUTPUT:
+
 ![image](https://github.com/nithin2134/8BIT_SYNCHRONOUS_UP-DOWN_COUNTER/assets/160302970/269a1229-2083-45a7-9e6a-f8a861de5fa3)
 
